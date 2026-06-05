@@ -1,0 +1,6 @@
+{
+  "name": "Jadid Mollik Portfolio",
+  "description": "Academic and Professional Portfolio website of Jadid Mollik, Law Student & Legal Researcher at IUB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
