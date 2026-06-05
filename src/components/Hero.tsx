@@ -145,7 +145,7 @@ export default function Hero() {
                   </div>
                   <div>
                     <span className="block text-xs font-semibold text-slate-200">Jadid Mollik</span>
-                    <span className="block text-[9px] uppercase tracking-wider text-slate-400">Representative Advocate</span>
+                    <span className="block text-[9px] uppercase tracking-wider text-slate-400">Legal Researcher</span>
                   </div>
                 </div>
 
