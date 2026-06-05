@@ -142,9 +142,7 @@ export default function Contact() {
                   </a>
                 ))}
               </div>
-              <p className="text-[10px] text-slate-500 font-sans italic">
-                * Note: Paste your Google Scholar, ResearchGate, and LinkedIn profile URLs inside data/portfolioData.ts or equivalent anchors.
-              </p>
+
             </div>
           </div>
 
